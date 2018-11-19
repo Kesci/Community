@@ -1,5 +1,11 @@
 # Summary
 
+* [FAQ](ch9/chapter9.md)
+    * [K-Lab使用常见问题](ch9/K-Lab使用常见问题.md)
+    * [K-Lab工具包常见问题](ch9/K-Lab工具包常见问题.md)
+    * [项目常见问题](ch9/项目常见问题.md)
+    * [数据集常见问题](ch9/数据集常见问题.md)
+    * [比赛常见问题](ch9/比赛常见问题.md) 
 * [K-Lab使用指南](README.md)
 * [Notebook(编程环境)](ch1/chapter1.md)
     * [Header](ch1/header.md)
@@ -30,5 +36,7 @@
     * [Py2](ch8/py2.md)
     * [R](ch8/r.md)
 * [账户管理](ch6/chapter6.md)
-* [FAQ](ch9/chapter9.md)
+* [社区数据集指南](ch10/chapter10.md)
+   * [数据集开源指南](ch10/dataset-rules.md)
+   * [数据集协议](ch10/license.md)
 
