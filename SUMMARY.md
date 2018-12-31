@@ -27,7 +27,7 @@
     * [管理数据集](ch4/manage_dataset.md)
 * [数据分析项目](ch5/chapter5.md)
     * [创建项目](ch5/create_lab.md)
-    * [运行项目](ch5/run_lab.md)
+    * [项目版本和附件](ch5/version.md)
     * [管理项目](ch5/manage_lab.md)
     * [Fork项目](ch5/fork_lab.md)
 * [K-Lab快捷键](ch7/chapter7.md)
